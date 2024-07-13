@@ -40,4 +40,4 @@ The primary dataset used is named 'Salary Prediction of Data Professions', conta
 - Deploy the model using `deployment.py` for making salary predictions.
 
 ## License
-This is sole a project of my internship at Mentorness.
+This is solely a project of my internship at Mentorness.
