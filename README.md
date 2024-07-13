@@ -1,7 +1,7 @@
 # Salary Prediction Project
 
 ## Overview
-This repository contains code and data for predicting salaries based on various features related to data professions. The goal of this project is to develop and deploy a salary prediction model that can assist in estimating salaries for data professionals.
+This repository contains code and data for predicting salaries based on various features related to data professions.In this project, I developed and deployed a salary prediction model aimed at estimating salaries for data professionals.
 
 ## Project Structure
 - **data/**: Contains datasets used for training and testing the model.
